@@ -1,2 +1,2 @@
-# Remote_API_Access_JSON
+# Remote Access by RESTful API or JSON-RPC API
  
